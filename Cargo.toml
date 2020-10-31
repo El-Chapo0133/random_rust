@@ -1,5 +1,5 @@
 [package]
-name = "random_from_scratch"
+name = "random_rust"
 version = "0.1.0"
 authors = ["KingDotCom <levequeloris66@gmail.com>"]
 edition = "2018"
